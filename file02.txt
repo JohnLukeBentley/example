@@ -7,7 +7,3 @@ WW.
 EE.
 
 XX.
-
-CC.
-
-VV.
