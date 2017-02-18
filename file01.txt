@@ -9,5 +9,3 @@ NNN.
 MMM.
 
 QQQ.
-
-WWW.
