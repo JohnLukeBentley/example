@@ -7,5 +7,3 @@ BBB.
 NNN.
 
 MMM.
-
-QQQ.
