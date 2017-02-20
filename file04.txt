@@ -5,5 +5,3 @@ DDD.
 EEE.
 
 FFF.
-
-Q.
